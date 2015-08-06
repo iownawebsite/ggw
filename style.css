@@ -1,0 +1,78 @@
+body{
+	background-image: url("http://inwallspeakers1.com/wp-content/uploads/2014/05/gaming-backgrounds.jpg");
+	background-repeat: no-repeat;
+	background-size: 1430px 1690px;
+
+}
+
+#system{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px;
+	border: 10px solid grey;
+	-webkit-border-radius:500px;
+	-moz-border-radius:500px;
+}
+#micro{
+	display: inline-block;
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px;
+	border: 10px solid lime;
+	-webkit-border-radius:500px;
+	-moz-border-radius:500px;
+}
+#sony{
+	display: inline-block;
+	display: inline-block;
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px;
+	border: 10px solid blue;
+	-webkit-border-radius:500px;
+	-moz-border-radius:500px;
+}
+#iwata{
+	display: inline-block;
+	display: inline-block;
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 10px;
+	border: 10px solid red;
+	-webkit-border-radius:500px;
+	-moz-border-radius:500px;
+}
+h4{
+	outline-color: red;
+	color: red;
+}
+h3{
+	color: coral;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+    margin: 0 20px 0 20px;
+}
+ul{
+	border-width: 100%;
+    background-color: blue;
+}
+#list-5{
+	margin-left: 500px;
+}
