@@ -1,0 +1,19 @@
+h4{
+	outline-color: red;
+	color: red;
+}
+h3{
+	color: coral;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	list-style: none;
+	display: inline-block;
+    margin: 0 20px 0 20px;
+}
+ul{
+	border-width: 100%;
+    background-color: blue;
+}
